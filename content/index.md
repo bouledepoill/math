@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Math synthese
 ---
 
 This is a blank Quartz installation.
